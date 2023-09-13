@@ -1,8 +1,8 @@
-### Hello there!
+# Hello there
 
-I'm Sergio, a passionate self-taught Unity and Extended Reality developer from Spain. I love to create games, apps and look for new challenges that push me to keep learning.
+I'm Sergio, a passionate self-taught Unity and Extended Reality developer from Spain. I love to create games, XR experiences and look for new challenges that push me to keep learning.
 
-#### → My Languages and Tools:
+## → My Languages and Tools
 
 ![Unity](https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -14,7 +14,14 @@ I'm Sergio, a passionate self-taught Unity and Extended Reality developer from S
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-#### → Reach me!
+## → What I am learning now?
+
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
+## → Reach me
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergioramirezrubio/)
 [![Xbox](https://img.shields.io/badge/Xbox-107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)](https://www.xbox.com/es-ES/play/user/ramirezrubio)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
